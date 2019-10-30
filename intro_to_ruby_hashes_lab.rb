@@ -23,7 +23,7 @@ def monopoly_with_fourth_tier
   :shortline_railroads => {"mortgage_value" => "$800"} },
     
     
-  :rent_in_dollars => {
+   :rent_in_dollars => {
       :one_piece_owned => 25,
       :two_pieces_owned => 50,
       :three_pieces_owned => 100,
