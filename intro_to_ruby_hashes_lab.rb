@@ -11,7 +11,7 @@ def monopoly_with_third_tier
   :pennsylvania_railroads => {},
   :b_and_o_railroads => {}, 
   :shortline_railroads => {},
-  :rent_in_dollars => {:one_pieces
+  :rent_in_dollars => {:one_piece
 end
 
 def monopoly_with_fourth_tier
