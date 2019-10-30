@@ -17,7 +17,7 @@ end
 
 def monopoly_with_fourth_tier
  {:railroads => {:names => {
-  :reading_railroads => {"mort"},
+  :reading_railroads => {"morta"},
   
   }
 end 
