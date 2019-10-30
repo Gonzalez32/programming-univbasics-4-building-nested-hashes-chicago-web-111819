@@ -18,7 +18,7 @@ end
 def monopoly_with_fourth_tier
  {:railroads => {:names => {
   :reading_railroads => {"mortgage_value" => "$100"},
-  :pennsylvania_railroads => {"mortgage_value" => "$"
+  :pennsylvania_railroads => {"mortgage_value" => "$200"
   
   }
 end 
