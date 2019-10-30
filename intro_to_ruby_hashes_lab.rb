@@ -8,7 +8,7 @@ end
 
 def monopoly_with_third_tier
   {:railroads => {:names => {:reading_railroads => {}, 
-  :pennsylvania_railroads
+  :pennsylvania_railroads => {}
 end
 
 def monopoly_with_fourth_tier
